@@ -1,3 +1,3 @@
 # organictech
 
-(https://stackblitz.com/~/github.com/yojaner123/organictech)
+(https://github.com/yojaner123/organictech)
